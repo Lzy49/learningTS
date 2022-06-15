@@ -1,0 +1,17 @@
+## 题目
+- [typescript面试题](https://zhuanlan.zhihu.com/p/393799486)
+- [阿宝哥ts30题](https://github.com/semlinker/awesome-typescript/issues)
+- [ts体操](https://github.com/type-challenges/type-challenges/blob/main/README.zh-CN.md)
+## 视频
+- [阿宝哥-轻松学TypeScript](https://space.bilibili.com/406258607/channel/collectiondetail?sid=334301)
+- [cxr-ts体操](https://www.bilibili.com/video/BV1vY41187Tx/?spm_id_from=333.788&vd_source=635d3c18a37b305921e87b8bd6ebbbfe)
+## 免费中文资料
+- [Typescript使用手册](http://www.patrickzhong.com/TypeScript/)
+- [Typescript入门教程](https://ts.xcatliu.com/introduction/what-is-typescript.html)
+## 付费资源
+- [掘金小册](https://juejin.cn/book/7047524421182947366)
+- [极客时间](https://time.geekbang.org/course/detail/100032201-112039)
+## 工具
+- [ts演练场](https://www.typescriptlang.org/zh/play)
+## 神仙操作
+- [ts象棋——徐飞](https://zhuanlan.zhihu.com/p/426966480)
